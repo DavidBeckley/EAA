@@ -1,0 +1,195 @@
+    1  ls -ltr
+    2  sudo gedit /etc/cntlm.conf 
+    3  bg
+    4  cd
+    5  find . -name *.crt -print 2>/dev/null
+    6  cd Downloads/
+    7  ls
+    8  vi eduroam-linux-IoTT_Linux.sh 
+    9  cd
+   10  sudo gedit /etc/cntlm.conf 
+   11  sudo gedit /etc/cntlm.conf 
+   12  bg
+   13  cntlm -M
+   14  cntlm -H
+   15  cntlm -H
+   16  cntlm -H
+   17  cntlm -H
+   18  sudo service cntlm restart
+   19  cntlm -H
+   20  cntlm -H cntlm.conf
+   21  cntlm cntlm.conf -H
+   22  cntlm -H
+   23  cntlm -H www.sun.com
+   24  cntlm -H
+   25  cntlm -H
+   26  ls /etc
+   27  sudo mv /etc/cntlm.conf /etc/cntlm.conf.old
+   28  cntlm -H
+   29  ls
+   30  sudo apt-get remove cntlm
+   31  sudo apt-get install cntlm
+   32  sudo apt-get remove cntlm
+   33  sudo apt-get install cntlm
+   34  sudo service start cntlm
+   35  sudo apt-get install cntlm
+   36  sudo service start 
+   37  sudo service cntlm start
+   38  sudo service cntlm start -v
+   39  sudo apt-get remove cntlm
+   40  sudo apt-get install cntlm
+   41  sudo apt-get remove cntlm
+   42  sudo apt-get install cntlm
+   43  sudo apt-get remove cntlm
+   44  find / -name cntlm.conf -print
+   45  find / -name cntlm.conf -print 2>/dev/nul
+   46  find / -name cntlm.conf -print 2>/dev/null
+   47  sudo apt-get remove cntlm
+   48  sudo apt-get install cntlm
+   49  sudo apt-get install cntlm
+   50  ls /etc/cntlm.conf
+   51  sudo apt-get purge cntlm
+   52  sudo apt-get install cntlm
+   53  find / -name cntlm.conf -print 2>/dev/null
+   54  cntlm -H
+   55  sudo vi /etc/cntlm.conf
+   56  cntlm -H
+   57  fg
+   58  sudo service cntlm restart
+   59  vi eduroam-linux-IoTT_Linux.sh 
+   60  sudo vi /etc/cntlm.conf
+   61  cntlm -M
+   62  cntlm -H -c /etc/cntlm.conf
+   63  cntlm -c /etc/cntlm.conf -H
+   64  cntlm -H
+   65  cntlm -c /etc/cntlm.conf -H
+   66  cntlm -c /etc/cntlm.conf 
+   67  cntlm -H -u jburns@stf
+   68  sudo vi /etc/cntlm.conf
+   69  sudo service cntlm restart
+   70  sudo vi /etc/cntlm.conf
+   71  sudo service cntlm restart
+   72  sudo service cntlm restart
+   73  sudo service cntlm restart
+   74  ls -ltr
+   75  rm *.cer
+   76  ls
+   77  chef
+   78  ls /opt
+   79  /opt/chef/bin/chef-solo
+   80  sudo shutdown -r now
+   81  ls -ltr
+   82  vi .profile 
+   83  ls -ltr
+   84  ls /opt
+   85  history > history.txt
+   86  cd /
+   87  ls
+   88  ls-F
+   89  ls -F
+   90  cd
+   91  pwd
+   92  ls -l
+   93  mkdir test
+   94  ls -l
+   95  cd test
+   96  pwd
+   97  cd
+   98  ls -l
+   99  ls -l
+  100  ls -f
+  101  cd /
+  102  ls -l
+  103  cd bin
+  104  pwd
+  105  ls -l
+  106  cd
+  107  pwd
+  108  history
+  109  cd /bin
+  110  ls -l
+  111  ls -l > myfile.txt
+  112  ls -l > myfile
+  113  ls > myfile.txt
+  114  ls /bin/ > binlist.txt
+  115  ls /home/mint > binlist.txt
+  116  ls /home/mint/ binlist.txt
+  117  ls -l /home/mint/ > binlist.txt
+  118  cd
+  119  ls -l /bin > binlist.txt
+  120  history
+  121  history > myhistory.txt
+  122  export GIT_SSL_NO_VERIFY=1
+  123  export http_proxy=http://localhost:3128
+  124  sudo -E apt-get install git
+  125  export run=5
+  126  echo $run
+  127  history
+  128  mkdir EAA
+  129  cd EAA
+  130  LS -L
+  131  ls-l
+  132  ls -l
+  133  touch READ.md
+  134  git init
+  135  git add READE.md
+  136  git add READ.md
+  137  git commit -m "first commit"
+  138  mkdir EAA
+  139  cd EAA
+  140  touch README.md
+  141  git init
+  142  git add README.md
+  143  git commit -m "first commit"
+  144  git config --global user.email "david.beckley.x00080130@gmail.com
+  145  git config --global user.name "davidbeckley"
+  146  mkdir EAA
+  147  cd EAA
+  148  touch README.md
+  149  git init
+  150  git add README.md
+  151  git commit -m "first commit"
+  152   git config --global user.email "you@example.com"
+  153   git config --global user.email "you@example.com"
+  154  git config --global user.email "david.beckley.x00080130@gmail.com"
+  155  git config --global user.name "David Beckley"
+  156  git config --global user.name "davidbeckley"
+  157  git commit -m "first commit"
+  158  gedit README.md
+  159  git push -u origin master
+  160  gitedit README.md
+  161  ehistory
+  162  history
+  163  export GIT_SSL_NO_VERIFY=1
+  164  export http_proxy=http://localhost:3128
+  165  ls
+  166  rm -rf EAA*
+  167  mkdir EAA
+  168  cd EAA
+  169  touch README.md
+  170  git init
+  171  git add README.md
+  172  git commit -m "first commit"
+  173  git remote add origin https://github.com/DavidBeckley/EAA.git
+  174  git push -u origin master
+  175  grep -i 'Model' /proc/cpuinfo
+  176  grep processor /proc/cpuinfo | wc -l 
+  177  git add cpucount.sh
+  178  git add cpucount.sh
+  179  git add -cpucount
+  180  touch cpucount.txt
+  181  gedit cpucount
+  182  git add -A
+  183  git commit -a
+  184  git push origin master
+  185  gedit cpucount
+  186  chmod +x cpucount
+  187  ls -l
+  188  ./cpucount
+  189  gedit cpucount
+  190  git commit -a
+  191  git commit -a
+  192  gedit cpucount
+  193  git commit -a
+  194  history
+
