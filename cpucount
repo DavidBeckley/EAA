@@ -1,10 +1,15 @@
 #!/bin/bash
 
 #:Title : CPU count
+
 #:Date : 26/09/2014
+
 #:Author : David Beckley
-#:Version : 1
+
+#:Version : 2
+
 #:Description : CPU count
+
 #:Options :
 
 grep processor /proc/cpuinfo | wc -l 
