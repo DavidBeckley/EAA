@@ -3,3 +3,5 @@
 
 
 this is some text
+timestamp=15:44:01 timestamp test
+15:45:17 timestamp test 2

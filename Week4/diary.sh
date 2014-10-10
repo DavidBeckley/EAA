@@ -6,9 +6,10 @@
 #: Description : using append operator >> add line to text file
 #: Options : 
 
+
 echo "Add text"
 read text
-echo $text >> diary.txt
+echo $( date +%T) $text >> diary.txt
 
 
 
