@@ -7,3 +7,4 @@
 #: Options : 
 
 printf "%s\n" "Hello, World!" 
+printf "Hello, %sWorld!\n""$1"
